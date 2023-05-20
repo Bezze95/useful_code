@@ -1,0 +1,10 @@
+// how to create a new VIRTUAL ENVIRONMENT ///
+python -m venv path/new/file
+
+source path_venv_folder/bin/activate
+
+/// how to create a new file and open it on vscode ///
+touch file_NAME
+
+code -n file_NAME
+
